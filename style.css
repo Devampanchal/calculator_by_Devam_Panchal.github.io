@@ -11,13 +11,14 @@ input {
     font-size: 34px;
     width: auto;
     border: 5px solid #244624;
+    height: 29px;
 }
 
 button {
     font-size: 40px;
     background: #7fff00;
-    width: 102px;
-    height: 58px;
+    width: 105px;
+    height: 126px;
     color: black;
     border: 1px solid chartreuse;
 }
